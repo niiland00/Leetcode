@@ -10,14 +10,11 @@ public:
         for(int j=0; j<n2; j++) R[j] = nums[mid+1+j];
 
         int i=0, j=0, k=left; 
-        //處理右半邊陣列時，起始點k就不一定是0
-        //不能用for固定k初始值
         while(i<n1 && j<n2){
             if(L[i]<R[j]) nums[k++]=L[i++];
             else nums[k++]=R[j++];
         }
 
-        //每一層已確定是排好的陣列
         while(i<n1) nums[k++]=L[i++];
         while(j<n2) nums[k++]=R[j++];
 
