@@ -23,14 +23,16 @@ public:
             while(prev->next!=nullptr && prev->next->val<cur->val){
                 prev=prev->next;
             }
-            
-            ListNode *next=cur->next;
 
+            //因為cur->next要改了先存起來
+            ListNode *next=cur->next;
+            //先接後再接前
             cur->next=prev->next;
             prev->next=cur;
-
+            //next使cur前進
             cur=next;
         }
+        //不是return head因為head會變
         return dummy->next;
     }
 };
