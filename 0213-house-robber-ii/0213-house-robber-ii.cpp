@@ -8,7 +8,6 @@ public:
         
         // 不偷最後一家
         int planA = robLinear(nums, 0, n - 2);
-        
         // 不偷第一家
         int planB = robLinear(nums, 1, n - 1);
         
