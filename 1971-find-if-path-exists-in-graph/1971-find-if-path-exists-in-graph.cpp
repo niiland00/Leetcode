@@ -23,7 +23,6 @@ public:
         visited[source]=true;
 
         while(!q.empty()){
-            //queue是先進後出所以被push進來的會在front
             int currentVertex=q.front();
             q.pop();
 
