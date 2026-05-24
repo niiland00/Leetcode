@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/niiland00/Leetcode/tree/master/0113-path-sum-ii) |
+| [0886-possible-bipartition](https://github.com/niiland00/Leetcode/tree/master/0886-possible-bipartition) |
 | [1302-deepest-leaves-sum](https://github.com/niiland00/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1971-find-if-path-exists-in-graph](https://github.com/niiland00/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/niiland00/Leetcode/tree/master/0886-possible-bipartition) |
 | [1302-deepest-leaves-sum](https://github.com/niiland00/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1971-find-if-path-exists-in-graph](https://github.com/niiland00/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
@@ -114,9 +116,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/niiland00/Leetcode/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/niiland00/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/niiland00/Leetcode/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/niiland00/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
